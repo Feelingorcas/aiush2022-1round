@@ -1,0 +1,14 @@
+#nsml: registry.navercorp.com/nsml/airush2020:pytorch1.5
+torchvision == 0.5.0
+Opencv-python >= 3.4.3.18
+matplotlib >= 2.2.2
+NumPy >= 1.16.4
+scikit-learn >= 0.19.1
+requests >= 2.21.0
+wget
+easydict
+pandas
+einops
+torchsampler
+facenet_pytorch
+torchensemble
